@@ -1,0 +1,3 @@
+C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/cmake-build-debug/CMakeFiles/rt.dir
+C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

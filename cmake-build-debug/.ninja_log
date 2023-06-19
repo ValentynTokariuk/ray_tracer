@@ -1,0 +1,29 @@
+# ninja log v5
+45	8324	7088893134707930	CMakeFiles/rt.dir/src/CScene.cpp.obj	aa009d5fb4ea7170
+23	8430	7088893135866873	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	e148cf8e23be0b13
+33	8672	7088893138305815	CMakeFiles/rt.dir/src/CRay.cpp.obj	98e30cca8c5bef98
+13	8714	7088893138733278	CMakeFiles/rt.dir/src/CObject.cpp.obj	937a0a2d01e2379e
+1	8918	7088893140766488	CMakeFiles/rt.dir/src/CImage.cpp.obj	4cdb5cd355ae6d12
+59	9055	7088893142142871	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+9055	9350	7088893145081570	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
+8	3484	7088911926532390	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+3485	3727	7088911928936544	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
+57	10196	7088915030605705	CMakeFiles/rt.dir/src/CScene.cpp.obj	aa009d5fb4ea7170
+28	10208	7088915030564590	CMakeFiles/rt.dir/src/CRayTrace.cpp.obj	e148cf8e23be0b13
+9	10322	7088915032030848	CMakeFiles/rt.dir/src/CImage.cpp.obj	4cdb5cd355ae6d12
+18	10663	7088915035428490	CMakeFiles/rt.dir/src/CObject.cpp.obj	937a0a2d01e2379e
+42	10886	7088915037659393	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+36	11155	7088915040408881	CMakeFiles/rt.dir/src/CRay.cpp.obj	98e30cca8c5bef98
+11156	11488	7088915043671959	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
+9	3518	7088955534056596	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+3519	3743	7088955536286956	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
+9	4349	7088958422932815	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+4350	4566	7088958425049635	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
+9	3400	7088958637733433	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+3400	3595	7088958639683091	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
+7	3431	7088960532967702	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+3432	3626	7088960534884966	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
+6	3330	7088960938606103	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+3330	3537	7088960940655767	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
+6	3220	7088961114934751	CMakeFiles/rt.dir/src/main.cpp.obj	d6290181d39bc5f7
+3221	3409	7088961116788407	C:/Users/vlntn/MAIN/szkolenie/zut/4/Grafika i wizualizacja/GiW_2023_222A_Tokariuk_Valentyn/ray_tracer/bin/rt.exe	f3216ae6f6f0208c
